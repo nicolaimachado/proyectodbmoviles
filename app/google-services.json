@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "481754611269",
+    "project_id": "asdf-971fd",
+    "storage_bucket": "asdf-971fd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481754611269:android:bc7dd4ac1882466bbe2d2c",
+        "android_client_info": {
+          "package_name": "com.nicolaischirmer.proyectodb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481754611269-ctajhjlma2ev21np7l7mi4jgjuh3r9p3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzMj3Ue5hbsZuEMs0oKtsPkNgVVxqa12A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481754611269-ctajhjlma2ev21np7l7mi4jgjuh3r9p3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
